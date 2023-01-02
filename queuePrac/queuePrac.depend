@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661971729 source:c:\users\win-10\documents\visual studio 2022\code snippets\visual c#\my code snippets\oishy\queueprac\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672142462 source:c:\users\win-10\documents\visual studio 2022\code snippets\visual c#\my code snippets\oishy\bit\main.cpp
+	<bits/stdc++.h>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
